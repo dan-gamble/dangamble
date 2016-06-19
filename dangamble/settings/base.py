@@ -152,11 +152,7 @@ INSTALLED_APPS = [
 
     "redirects",
 
-    # "dangamble.apps.careers",
-    # "dangamble.apps.faqs",
-    # "dangamble.apps.footer",
     "dangamble.apps.news",
-    # "dangamble.apps.people",
     "dangamble.apps.sections",
     "dangamble.apps.site",
 
